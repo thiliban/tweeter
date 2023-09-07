@@ -4,14 +4,18 @@ Tweeter is a simple, single-page Twitter clone.
 
 This repository is the starter code for the project: Students will fork and clone this repository, then build upon it to practice their HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express back-end skills.
 
-# Final project
+# Final product
 
+Main Tweeter page
 ![Main Tweeter page](https://github.com/thiliban/tweeter/blob/master/docs/Screenshot%202023-09-06%20at%2010.53.16%20PM.png)
 
+Error message on main page when submitting empty message
 ![Error message on main page when submitting empty message](https://github.com/thiliban/tweeter/blob/master/docs/Screenshot%202023-09-06%20at%2011.03.18%20PM.png)
 
+Error message when submitting tweets above 140 characters
 ![Error message when submitting tweets above 140 characters](https://github.com/thiliban/tweeter/blob/master/docs/Screenshot%202023-09-06%20at%2011.07.15%20PM.png)
 
+First tweet
 ![First tweet](https://github.com/thiliban/tweeter/blob/master/docs/Screenshot%202023-09-06%20at%2011.08.37%20PM.png)
 
 
